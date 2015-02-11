@@ -1,0 +1,15 @@
+[submodule "ftdi_eeprom"]
+	path = ftdi_eeprom
+	url = git://developer.intra2net.com/ftdi_eeprom
+[submodule "libconfuse"]
+	path = libconfuse
+	url = https://github.com/martinh/libconfuse.git
+[submodule "libftdi"]
+	path = libftdi
+	url = git://developer.intra2net.com/libftdi
+[submodule "libftdi-perl"]
+	path = libftdi-perl
+	url = git@mrf-gw.mrf.sonoma.ca.us:Misc/libftdi-perl
+[submodule "libmpsse"]
+	path = libmpsse
+	url = git@mrf-gw.mrf.sonoma.ca.us:Misc/libmpsse
