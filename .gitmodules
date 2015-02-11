@@ -13,3 +13,5 @@
 [submodule "libmpsse"]
 	path = libmpsse
 	url = git@mrf-gw.mrf.sonoma.ca.us:Misc/libmpsse
+        branch = MF_MODS
+        update = rebase
