@@ -12,6 +12,6 @@
 	url = git@github.com:mikef5410/libftdi-perl.git
 [submodule "libmpsse"]
 	path = libmpsse
-	url = git@mrf-gw.mrf.sonoma.ca.us:Misc/libmpsse
+	url = git@github.com:mikef5410/libmpsse.git
         branch = MF_MODS
         update = rebase
