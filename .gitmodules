@@ -17,4 +17,6 @@
         update = rebase
 [submodule "perl-Device-FTDI"]
 	path = perl-Device-FTDI
+	branch = mfmods
+	update = rebase
 	url = git@github.com:mikef5410/perl-Device-FTDI.git
