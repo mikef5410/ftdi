@@ -15,3 +15,6 @@
 	url = git@github.com:mikef5410/libmpsse.git
         branch = MF_MODS
         update = rebase
+[submodule "perl-Device-FTDI"]
+	path = perl-Device-FTDI
+	url = git@github.com:mikef5410/perl-Device-FTDI.git
